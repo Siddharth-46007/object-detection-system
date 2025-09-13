@@ -1,0 +1,17 @@
+{
+  "detections": [
+    {
+      "class": "dog",
+      "confidence": 0.6796672344207764,
+      "bbox": {
+        "x1": 104.98172760009766,
+        "y1": 18.932647705078125,
+        "x2": 322.94647216796875,
+        "y2": 261.8560791015625
+      }
+    }
+  ],
+  "image_filename": "output_8b31de741a794ea4a90c4fbc902aa475.jpg",
+  "processing_time": 7.897559404373169,
+  "total_objects": 1
+}
